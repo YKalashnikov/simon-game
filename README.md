@@ -4,6 +4,6 @@
 <h1 align="center">What is it?</h1>
 <h2 align="center">It is a game-Simon Game</h2>
 <p align="center" color="red"><font color="red">CSS, JavaScript</font></p> 
-<font color="red">This is some text!</font>
+
 
  
